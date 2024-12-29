@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student in NITJ<br>Learning DSA <br>Good in logic building<br>Going for WEBD side by side
+Student in NITJ<br>Learning DSA <br>Good in logic building<br>Web Development
 
 
 ## 🌐 Socials:
